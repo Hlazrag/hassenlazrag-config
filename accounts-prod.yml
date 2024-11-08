@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to DigitBank accounts related prod APIs "
+  message: "Welcome to DigitBank accounts related production APIs "
   contactDetails:
     name: "Rawen Ben Hassen - Product Owner"
     email: "rawen.benhassen@gmail.com"
