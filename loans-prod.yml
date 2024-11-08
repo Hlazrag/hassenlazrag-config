@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to DigitBank loans related prod APIs "
+  contactDetails:
+    name: "Rawen Ben Hassen - Product Owner"
+    email: "rawen.benhassen@gmail.com"
+  onCallSupport:
+    - (216) 98 111-111
+    - (216) 55 111-111

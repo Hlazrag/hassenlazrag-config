@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to DigitBank cards related QA APIs "
+  contactDetails:
+    name: "Ali Ben Salah - QA Leader"
+    email: "ali.bensalah@gmail.com"
+  onCallSupport:
+    - (216) 98 555-555
+    - (216) 55 555-555
