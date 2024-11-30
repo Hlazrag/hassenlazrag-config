@@ -11,8 +11,8 @@ eureka:
 
 build:
   version: "3.0"
-accounts:
-  message: "Welcome to DigitBank accounts related local APIs "
+gatewayserver:
+  message: "Welcome to DigitBank gatewayserver related local APIs "
   contactDetails:
     name: "Hassen Lazrag - Inginneer"
     email: "hassen.lazrag@gmail.com"
